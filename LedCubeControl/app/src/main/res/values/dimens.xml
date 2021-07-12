@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="led_matrix_content_margin">8dp</dimen>
+    <dimen name="led_matrix_margin">2dp</dimen>
+    <dimen name="layer_indicator_heigt">20dp</dimen>
+</resources>

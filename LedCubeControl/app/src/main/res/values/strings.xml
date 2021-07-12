@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LedCubeControl</string>
+    <string name="layer_indicator"><bold>Layer: %1$d</bold></string>
+    <string name="send">Send</string>
+    <string name="new_frame">+</string>
+    <string name="frame_title">%1$d</string>
+    <string name="delete_frame">Delete frame</string>
+    <string name="duration_indicator">Duration (in ms):</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="msg_connected">Connected</string>
+    <string name="msg_connection_failed">Connection failure</string>
+    <string name="msg_disconnected">Disconnected</string>
+    <string name="msg_frame_deleted">Frame %1$d deleted.</string>
+    <string name="msg_data_sent">Data sent.</string>
+    <string name="msg_data_not_sent">Data did not get send because an error occurred.</string>
+</resources>

@@ -1,0 +1,4 @@
+rootProject.name = "LedCubeControl"
+include ':app'
+include ':datamodel'
+include ':bluetoothconnector'
